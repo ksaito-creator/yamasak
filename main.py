@@ -1,1 +1,4 @@
-print('hello_world')
+print('eu')
+
+print('eu')
+term = 'eu'
